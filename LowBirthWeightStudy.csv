@@ -1,4 +1,4 @@
-ID,Low_birth_weight,Age,Mother_prepregnancy_weight,Race,Smoke,Premature_labor,Hypertension,Uterine_irritability,First_timester_visits,Birth_weight
+ID,Low birth weight,Age,Mother pre pregnancy weight,Race,Smoke,Premature labor,Hypertension,Uterine irritability,First timester visits,Birth weight
 85,No,19,182,Black,No,0,No,Yes,0,2523
 86,No,33,155,Other,No,0,No,No,3,2551
 87,No,20,105,White,Yes,0,No,No,1,2557
