@@ -1,0 +1,861 @@
+country,region,Indicator,Value
+Afghanistan,South Asia,birth_rate1000,35.143
+Afghanistan,South Asia,death_rate1000,6.906
+Afghanistan,South Asia,net_immigration,-647402
+Afghanistan,South Asia,life_exp,62.879
+Albania,Europe & Central Asia,birth_rate1000,10.116
+Albania,Europe & Central Asia,death_rate1000,11.194
+Albania,Europe & Central Asia,net_immigration,-16426
+Albania,Europe & Central Asia,life_exp,76.833
+Algeria,Middle East & North Africa,birth_rate1000,20.572
+Algeria,Middle East & North Africa,death_rate1000,4.329
+Algeria,Middle East & North Africa,net_immigration,-14684
+Algeria,Middle East & North Africa,life_exp,77.129
+American Samoa,East Asia & Pacific,birth_rate1000,13.8
+American Samoa,East Asia & Pacific,death_rate1000,7.8
+American Samoa,East Asia & Pacific,net_immigration,-1305
+American Samoa,East Asia & Pacific,life_exp,NA
+Andorra,Europe & Central Asia,birth_rate1000,6.2
+Andorra,Europe & Central Asia,death_rate1000,4.6
+Andorra,Europe & Central Asia,net_immigration,1102
+Andorra,Europe & Central Asia,life_exp,NA
+Angola,Sub-Saharan Africa,birth_rate1000,38.2
+Angola,Sub-Saharan Africa,death_rate1000,7.863
+Angola,Sub-Saharan Africa,net_immigration,-995
+Angola,Sub-Saharan Africa,life_exp,61.929
+Antigua and Barbuda,Latin America & Caribbean,birth_rate1000,11.984
+Antigua and Barbuda,Latin America & Caribbean,death_rate1000,6.094
+Antigua and Barbuda,Latin America & Caribbean,net_immigration,0
+Antigua and Barbuda,Latin America & Caribbean,life_exp,79.236
+Argentina,Latin America & Caribbean,birth_rate1000,13.794
+Argentina,Latin America & Caribbean,death_rate1000,8.589
+Argentina,Latin America & Caribbean,net_immigration,5589
+Argentina,Latin America & Caribbean,life_exp,76.064
+Armenia,Europe & Central Asia,birth_rate1000,11.7
+Armenia,Europe & Central Asia,death_rate1000,11.881
+Armenia,Europe & Central Asia,net_immigration,38001
+Armenia,Europe & Central Asia,life_exp,73.372
+Aruba,Latin America & Caribbean,birth_rate1000,7.178
+Aruba,Latin America & Caribbean,death_rate1000,11.084
+Aruba,Latin America & Caribbean,net_immigration,152
+Aruba,Latin America & Caribbean,life_exp,74.992
+Australia,East Asia & Pacific,birth_rate1000,11.6
+Australia,East Asia & Pacific,death_rate1000,7.3
+Australia,East Asia & Pacific,net_immigration,140972
+Australia,East Asia & Pacific,life_exp,83.2
+Austria,Europe & Central Asia,birth_rate1000,9.1
+Austria,Europe & Central Asia,death_rate1000,10.3
+Austria,Europe & Central Asia,net_immigration,157365
+Austria,Europe & Central Asia,life_exp,81.09268293
+Azerbaijan,Europe & Central Asia,birth_rate1000,12.1
+Azerbaijan,Europe & Central Asia,death_rate1000,6
+Azerbaijan,Europe & Central Asia,net_immigration,9086
+Azerbaijan,Europe & Central Asia,life_exp,73.488
+"Bahamas, The",Latin America & Caribbean,birth_rate1000,11.379
+"Bahamas, The",Latin America & Caribbean,death_rate1000,7.298
+"Bahamas, The",Latin America & Caribbean,net_immigration,1001
+"Bahamas, The",Latin America & Caribbean,life_exp,74.358
+Bahrain,Middle East & North Africa,birth_rate1000,11.454
+Bahrain,Middle East & North Africa,death_rate1000,2.476
+Bahrain,Middle East & North Africa,net_immigration,18975
+Bahrain,Middle East & North Africa,life_exp,79.246
+Bangladesh,South Asia,birth_rate1000,17.48
+Bangladesh,South Asia,death_rate1000,5.296
+Bangladesh,South Asia,net_immigration,-549990
+Bangladesh,South Asia,life_exp,73.698
+Barbados,Latin America & Caribbean,birth_rate1000,10.783
+Barbados,Latin America & Caribbean,death_rate1000,9.114
+Barbados,Latin America & Caribbean,net_immigration,-80
+Barbados,Latin America & Caribbean,life_exp,77.706
+Belarus,Europe & Central Asia,birth_rate1000,9.165
+Belarus,Europe & Central Asia,death_rate1000,15.49
+Belarus,Europe & Central Asia,net_immigration,-8000
+Belarus,Europe & Central Asia,life_exp,73.11146341
+Belgium,Europe & Central Asia,birth_rate1000,9.8
+Belgium,Europe & Central Asia,death_rate1000,10
+Belgium,Europe & Central Asia,net_immigration,118615
+Belgium,Europe & Central Asia,life_exp,81.69756098
+Belize,Latin America & Caribbean,birth_rate1000,17.763
+Belize,Latin America & Caribbean,death_rate1000,6.253
+Belize,Latin America & Caribbean,net_immigration,5936
+Belize,Latin America & Caribbean,life_exp,70.962
+Benin,Sub-Saharan Africa,birth_rate1000,36.071
+Benin,Sub-Saharan Africa,death_rate1000,9.323
+Benin,Sub-Saharan Africa,net_immigration,-192
+Benin,Sub-Saharan Africa,life_exp,59.954
+Bermuda,North America,birth_rate1000,7.5
+Bermuda,North America,death_rate1000,9.1
+Bermuda,North America,net_immigration,0
+Bermuda,North America,life_exp,81.571
+Bhutan,South Asia,birth_rate1000,12.332
+Bhutan,South Asia,death_rate1000,6.356
+Bhutan,South Asia,net_immigration,291
+Bhutan,South Asia,life_exp,72.229
+Bolivia,Latin America & Caribbean,birth_rate1000,21.599
+Bolivia,Latin America & Caribbean,death_rate1000,9.062
+Bolivia,Latin America & Caribbean,net_immigration,-3008
+Bolivia,Latin America & Caribbean,life_exp,64.928
+Bosnia and Herzegovina,Europe & Central Asia,birth_rate1000,8.278
+Bosnia and Herzegovina,Europe & Central Asia,death_rate1000,15.865
+Bosnia and Herzegovina,Europe & Central Asia,net_immigration,-485
+Bosnia and Herzegovina,Europe & Central Asia,life_exp,75.293
+Botswana,Sub-Saharan Africa,birth_rate1000,23.036
+Botswana,Sub-Saharan Africa,death_rate1000,6.897
+Botswana,Sub-Saharan Africa,net_immigration,-7306
+Botswana,Sub-Saharan Africa,life_exp,65.913
+Brazil,Latin America & Caribbean,birth_rate1000,12.649
+Brazil,Latin America & Caribbean,death_rate1000,8.139
+Brazil,Latin America & Caribbean,net_immigration,-253639
+Brazil,Latin America & Caribbean,life_exp,73.425
+British Virgin Islands,Latin America & Caribbean,birth_rate1000,7.64
+British Virgin Islands,Latin America & Caribbean,death_rate1000,6.515
+British Virgin Islands,Latin America & Caribbean,net_immigration,550
+British Virgin Islands,Latin America & Caribbean,life_exp,76.373
+Brunei Darussalam,East Asia & Pacific,birth_rate1000,13.493
+Brunei Darussalam,East Asia & Pacific,death_rate1000,5.431
+Brunei Darussalam,East Asia & Pacific,net_immigration,0
+Brunei Darussalam,East Asia & Pacific,life_exp,74.551
+Bulgaria,Europe & Central Asia,birth_rate1000,8.8
+Bulgaria,Europe & Central Asia,death_rate1000,18.4
+Bulgaria,Europe & Central Asia,net_immigration,26498
+Bulgaria,Europe & Central Asia,life_exp,74.36097561
+Burkina Faso,Sub-Saharan Africa,birth_rate1000,34.952
+Burkina Faso,Sub-Saharan Africa,death_rate1000,8.662
+Burkina Faso,Sub-Saharan Africa,net_immigration,-24960
+Burkina Faso,Sub-Saharan Africa,life_exp,59.766
+Burundi,Sub-Saharan Africa,birth_rate1000,34.109
+Burundi,Sub-Saharan Africa,death_rate1000,7.311
+Burundi,Sub-Saharan Africa,net_immigration,1995
+Burundi,Sub-Saharan Africa,life_exp,61.977
+Cabo Verde,Sub-Saharan Africa,birth_rate1000,16.686
+Cabo Verde,Sub-Saharan Africa,death_rate1000,5.659
+Cabo Verde,Sub-Saharan Africa,net_immigration,-1253
+Cabo Verde,Sub-Saharan Africa,life_exp,74.722
+Cambodia,East Asia & Pacific,birth_rate1000,18.969
+Cambodia,East Asia & Pacific,death_rate1000,6.785
+Cambodia,East Asia & Pacific,net_immigration,-31350
+Cambodia,East Asia & Pacific,life_exp,69.896
+Cameroon,Sub-Saharan Africa,birth_rate1000,34.352
+Cameroon,Sub-Saharan Africa,death_rate1000,8.225
+Cameroon,Sub-Saharan Africa,net_immigration,-4798
+Cameroon,Sub-Saharan Africa,life_exp,60.958
+Canada,North America,birth_rate1000,9
+Canada,North America,death_rate1000,8.6
+Canada,North America,net_immigration,459988
+Canada,North America,life_exp,81.29560976
+Cayman Islands,Latin America & Caribbean,birth_rate1000,11.7
+Cayman Islands,Latin America & Caribbean,death_rate1000,4.5
+Cayman Islands,Latin America & Caribbean,net_immigration,942
+Cayman Islands,Latin America & Caribbean,life_exp,NA
+Central African Republic,Sub-Saharan Africa,birth_rate1000,42.344
+Central African Republic,Sub-Saharan Africa,death_rate1000,11.003
+Central African Republic,Sub-Saharan Africa,net_immigration,-17430
+Central African Republic,Sub-Saharan Africa,life_exp,54.477
+Chad,Sub-Saharan Africa,birth_rate1000,43.184
+Chad,Sub-Saharan Africa,death_rate1000,12.157
+Chad,Sub-Saharan Africa,net_immigration,36670
+Chad,Sub-Saharan Africa,life_exp,52.997
+Channel Islands,Europe & Central Asia,birth_rate1000,10.21949804
+Channel Islands,Europe & Central Asia,death_rate1000,8.21466116
+Channel Islands,Europe & Central Asia,net_immigration,820
+Channel Islands,Europe & Central Asia,life_exp,81.583
+Chile,Latin America & Caribbean,birth_rate1000,11.755
+Chile,Latin America & Caribbean,death_rate1000,7.199
+Chile,Latin America & Caribbean,net_immigration,59374
+Chile,Latin America & Caribbean,life_exp,79.519
+China,East Asia & Pacific,birth_rate1000,6.77
+China,East Asia & Pacific,death_rate1000,7.37
+China,East Asia & Pacific,net_immigration,-293846
+China,East Asia & Pacific,life_exp,78.587
+Colombia,Latin America & Caribbean,birth_rate1000,13.921
+Colombia,Latin America & Caribbean,death_rate1000,7.409
+Colombia,Latin America & Caribbean,net_immigration,183180
+Colombia,Latin America & Caribbean,life_exp,73.659
+Comoros,Sub-Saharan Africa,birth_rate1000,28.887
+Comoros,Sub-Saharan Africa,death_rate1000,8.528
+Comoros,Sub-Saharan Africa,net_immigration,-2002
+Comoros,Sub-Saharan Africa,life_exp,63.68
+"Congo, Dem. Rep.",Sub-Saharan Africa,birth_rate1000,41.737
+"Congo, Dem. Rep.",Sub-Saharan Africa,death_rate1000,9.352
+"Congo, Dem. Rep.",Sub-Saharan Africa,net_immigration,-14991
+"Congo, Dem. Rep.",Sub-Saharan Africa,life_exp,59.743
+"Congo, Rep.",Sub-Saharan Africa,birth_rate1000,30.175
+"Congo, Rep.",Sub-Saharan Africa,death_rate1000,7.275
+"Congo, Rep.",Sub-Saharan Africa,net_immigration,-995
+"Congo, Rep.",Sub-Saharan Africa,life_exp,63.053
+Costa Rica,Latin America & Caribbean,birth_rate1000,11.686
+Costa Rica,Latin America & Caribbean,death_rate1000,7.113
+Costa Rica,Latin America & Caribbean,net_immigration,1006
+Costa Rica,Latin America & Caribbean,life_exp,77.32
+Cote d'Ivoire,Sub-Saharan Africa,birth_rate1000,33.492
+Cote d'Ivoire,Sub-Saharan Africa,death_rate1000,8.843
+Cote d'Ivoire,Sub-Saharan Africa,net_immigration,26777
+Cote d'Ivoire,Sub-Saharan Africa,life_exp,58.916
+Croatia,Europe & Central Asia,birth_rate1000,8.8
+Croatia,Europe & Central Asia,death_rate1000,14.8
+Croatia,Europe & Central Asia,net_immigration,11681
+Croatia,Europe & Central Asia,life_exp,77.57560976
+Cuba,Latin America & Caribbean,birth_rate1000,8.889
+Cuba,Latin America & Caribbean,death_rate1000,9.852
+Cuba,Latin America & Caribbean,net_immigration,-23149
+Cuba,Latin America & Caribbean,life_exp,78.155
+Curacao,Latin America & Caribbean,birth_rate1000,8.2
+Curacao,Latin America & Caribbean,death_rate1000,9.3
+Curacao,Latin America & Caribbean,net_immigration,518
+Curacao,Latin America & Caribbean,life_exp,NA
+Cyprus,Europe & Central Asia,birth_rate1000,10.023
+Cyprus,Europe & Central Asia,death_rate1000,6.971
+Cyprus,Europe & Central Asia,net_immigration,9014
+Cyprus,Europe & Central Asia,life_exp,81.889
+Denmark,Europe & Central Asia,birth_rate1000,9.9
+Denmark,Europe & Central Asia,death_rate1000,10.1
+Denmark,Europe & Central Asia,net_immigration,60219
+Denmark,Europe & Central Asia,life_exp,81.30487805
+Djibouti,Middle East & North Africa,birth_rate1000,21.911
+Djibouti,Middle East & North Africa,death_rate1000,8.962
+Djibouti,Middle East & North Africa,net_immigration,500
+Djibouti,Middle East & North Africa,life_exp,62.859
+Dominica,Latin America & Caribbean,birth_rate1000,13.278
+Dominica,Latin America & Caribbean,death_rate1000,8.921
+Dominica,Latin America & Caribbean,net_immigration,-202
+Dominica,Latin America & Caribbean,life_exp,72.981
+Dominican Republic,Latin America & Caribbean,birth_rate1000,18.111
+Dominican Republic,Latin America & Caribbean,death_rate1000,6.068
+Dominican Republic,Latin America & Caribbean,net_immigration,-35153
+Dominican Republic,Latin America & Caribbean,life_exp,74.17
+Ecuador,Latin America & Caribbean,birth_rate1000,16.583
+Ecuador,Latin America & Caribbean,death_rate1000,4.85
+Ecuador,Latin America & Caribbean,net_immigration,-23090
+Ecuador,Latin America & Caribbean,life_exp,77.894
+"Egypt, Arab Rep.",Middle East & North Africa,birth_rate1000,22.107
+"Egypt, Arab Rep.",Middle East & North Africa,death_rate1000,6.39
+"Egypt, Arab Rep.",Middle East & North Africa,net_immigration,13707
+"Egypt, Arab Rep.",Middle East & North Africa,life_exp,70.159
+El Salvador,Latin America & Caribbean,birth_rate1000,15.803
+El Salvador,Latin America & Caribbean,death_rate1000,8.173
+El Salvador,Latin America & Caribbean,net_immigration,-23255
+El Salvador,Latin America & Caribbean,life_exp,71.475
+Equatorial Guinea,Sub-Saharan Africa,birth_rate1000,29.865
+Equatorial Guinea,Sub-Saharan Africa,death_rate1000,8.708
+Equatorial Guinea,Sub-Saharan Africa,net_immigration,3997
+Equatorial Guinea,Sub-Saharan Africa,life_exp,61.19
+Eritrea,Sub-Saharan Africa,birth_rate1000,28.426
+Eritrea,Sub-Saharan Africa,death_rate1000,6.727
+Eritrea,Sub-Saharan Africa,net_immigration,-17134
+Eritrea,Sub-Saharan Africa,life_exp,66.604
+Estonia,Europe & Central Asia,birth_rate1000,8.6
+Estonia,Europe & Central Asia,death_rate1000,12.8
+Estonia,Europe & Central Asia,net_immigration,39754
+Estonia,Europe & Central Asia,life_exp,77.94390244
+Eswatini,Sub-Saharan Africa,birth_rate1000,23.642
+Eswatini,Sub-Saharan Africa,death_rate1000,11.883
+Eswatini,Sub-Saharan Africa,net_immigration,-8549
+Eswatini,Sub-Saharan Africa,life_exp,56.36
+Ethiopia,Sub-Saharan Africa,birth_rate1000,31.835
+Ethiopia,Sub-Saharan Africa,death_rate1000,6.497
+Ethiopia,Sub-Saharan Africa,net_immigration,-11996
+Ethiopia,Sub-Saharan Africa,life_exp,65.645
+Faroe Islands,Europe & Central Asia,birth_rate1000,11.8
+Faroe Islands,Europe & Central Asia,death_rate1000,9.1
+Faroe Islands,Europe & Central Asia,net_immigration,614
+Faroe Islands,Europe & Central Asia,life_exp,83.3
+Fiji,East Asia & Pacific,birth_rate1000,19.131
+Fiji,East Asia & Pacific,death_rate1000,8.235
+Fiji,East Asia & Pacific,net_immigration,-3557
+Fiji,East Asia & Pacific,life_exp,68.312
+Finland,Europe & Central Asia,birth_rate1000,8.1
+Finland,Europe & Central Asia,death_rate1000,11.4
+Finland,Europe & Central Asia,net_immigration,60353
+Finland,Europe & Central Asia,life_exp,81.18780488
+France,Europe & Central Asia,birth_rate1000,10.6
+France,Europe & Central Asia,death_rate1000,9.8
+France,Europe & Central Asia,net_immigration,179377
+France,Europe & Central Asia,life_exp,82.22926829
+French Polynesia,East Asia & Pacific,birth_rate1000,12.55
+French Polynesia,East Asia & Pacific,death_rate1000,3.64
+French Polynesia,East Asia & Pacific,net_immigration,-1348
+French Polynesia,East Asia & Pacific,life_exp,83.55
+Gabon,Sub-Saharan Africa,birth_rate1000,26.803
+Gabon,Sub-Saharan Africa,death_rate1000,7.307
+Gabon,Sub-Saharan Africa,net_immigration,987
+Gabon,Sub-Saharan Africa,life_exp,65.694
+"Gambia, The",Sub-Saharan Africa,birth_rate1000,32.696
+"Gambia, The",Sub-Saharan Africa,death_rate1000,7.137
+"Gambia, The",Sub-Saharan Africa,net_immigration,-3000
+"Gambia, The",Sub-Saharan Africa,life_exp,62.906
+Georgia,Europe & Central Asia,birth_rate1000,13.099
+Georgia,Europe & Central Asia,death_rate1000,15.197
+Georgia,Europe & Central Asia,net_immigration,26999
+Georgia,Europe & Central Asia,life_exp,71.587
+Germany,Europe & Central Asia,birth_rate1000,8.8
+Germany,Europe & Central Asia,death_rate1000,12.7
+Germany,Europe & Central Asia,net_immigration,981552
+Germany,Europe & Central Asia,life_exp,80.70560976
+Ghana,Sub-Saharan Africa,birth_rate1000,27.08
+Ghana,Sub-Saharan Africa,death_rate1000,7.585
+Ghana,Sub-Saharan Africa,net_immigration,-10003
+Ghana,Sub-Saharan Africa,life_exp,63.945
+Gibraltar,Europe & Central Asia,birth_rate1000,10.564
+Gibraltar,Europe & Central Asia,death_rate1000,8.511
+Gibraltar,Europe & Central Asia,net_immigration,613
+Gibraltar,Europe & Central Asia,life_exp,82.83
+Greece,Europe & Central Asia,birth_rate1000,7.3
+Greece,Europe & Central Asia,death_rate1000,13.4
+Greece,Europe & Central Asia,net_immigration,-53997
+Greece,Europe & Central Asia,life_exp,80.63658537
+Greenland,Europe & Central Asia,birth_rate1000,13.2
+Greenland,Europe & Central Asia,death_rate1000,9.3
+Greenland,Europe & Central Asia,net_immigration,-323
+Greenland,Europe & Central Asia,life_exp,71.5404878
+Grenada,Latin America & Caribbean,birth_rate1000,15.616
+Grenada,Latin America & Caribbean,death_rate1000,7.942
+Grenada,Latin America & Caribbean,net_immigration,-190
+Grenada,Latin America & Caribbean,life_exp,75.335
+Guam,East Asia & Pacific,birth_rate1000,16.374
+Guam,East Asia & Pacific,death_rate1000,6.55
+Guam,East Asia & Pacific,net_immigration,-500
+Guam,East Asia & Pacific,life_exp,78.33
+Guatemala,Latin America & Caribbean,birth_rate1000,20.861
+Guatemala,Latin America & Caribbean,death_rate1000,6.767
+Guatemala,Latin America & Caribbean,net_immigration,-8463
+Guatemala,Latin America & Caribbean,life_exp,68.674
+Guinea,Sub-Saharan Africa,birth_rate1000,33.855
+Guinea,Sub-Saharan Africa,death_rate1000,9.87
+Guinea,Sub-Saharan Africa,net_immigration,-3997
+Guinea,Sub-Saharan Africa,life_exp,58.985
+Guinea-Bissau,Sub-Saharan Africa,birth_rate1000,30.611
+Guinea-Bissau,Sub-Saharan Africa,death_rate1000,8.597
+Guinea-Bissau,Sub-Saharan Africa,net_immigration,-1400
+Guinea-Bissau,Sub-Saharan Africa,life_exp,59.861
+Guyana,Latin America & Caribbean,birth_rate1000,19.897
+Guyana,Latin America & Caribbean,death_rate1000,9.762
+Guyana,Latin America & Caribbean,net_immigration,-6161
+Guyana,Latin America & Caribbean,life_exp,65.989
+Haiti,Latin America & Caribbean,birth_rate1000,23.146
+Haiti,Latin America & Caribbean,death_rate1000,8.48
+Haiti,Latin America & Caribbean,net_immigration,-32220
+Haiti,Latin America & Caribbean,life_exp,63.728
+Honduras,Latin America & Caribbean,birth_rate1000,20.85
+Honduras,Latin America & Caribbean,death_rate1000,5.404
+Honduras,Latin America & Caribbean,net_immigration,-5374
+Honduras,Latin America & Caribbean,life_exp,70.728
+"Hong Kong SAR, China",East Asia & Pacific,birth_rate1000,4.4
+"Hong Kong SAR, China",East Asia & Pacific,death_rate1000,8.7
+"Hong Kong SAR, China",East Asia & Pacific,net_immigration,-3427
+"Hong Kong SAR, China",East Asia & Pacific,life_exp,83.66097561
+Hungary,Europe & Central Asia,birth_rate1000,9.3
+Hungary,Europe & Central Asia,death_rate1000,14.2
+Hungary,Europe & Central Asia,net_immigration,41871
+Hungary,Europe & Central Asia,life_exp,76.01707317
+Iceland,Europe & Central Asia,birth_rate1000,11.5
+Iceland,Europe & Central Asia,death_rate1000,7
+Iceland,Europe & Central Asia,net_immigration,6535
+Iceland,Europe & Central Asia,life_exp,82.17073171
+India,South Asia,birth_rate1000,16.267
+India,South Asia,death_rate1000,9.074
+India,South Asia,net_immigration,-1353478
+India,South Asia,life_exp,67.744
+Indonesia,East Asia & Pacific,birth_rate1000,16.196
+Indonesia,East Asia & Pacific,death_rate1000,9.59
+Indonesia,East Asia & Pacific,net_immigration,-37501
+Indonesia,East Asia & Pacific,life_exp,68.25
+"Iran, Islamic Rep.",Middle East & North Africa,birth_rate1000,13.242
+"Iran, Islamic Rep.",Middle East & North Africa,death_rate1000,6.152
+"Iran, Islamic Rep.",Middle East & North Africa,net_immigration,403190
+"Iran, Islamic Rep.",Middle East & North Africa,life_exp,74.556
+Iraq,Middle East & North Africa,birth_rate1000,27.035
+Iraq,Middle East & North Africa,death_rate1000,4.433
+Iraq,Middle East & North Africa,net_immigration,76821
+Iraq,Middle East & North Africa,life_exp,71.336
+Ireland,Europe & Central Asia,birth_rate1000,11.2
+Ireland,Europe & Central Asia,death_rate1000,6.9
+Ireland,Europe & Central Asia,net_immigration,93535
+Ireland,Europe & Central Asia,life_exp,83.05609756
+Isle of Man,Europe & Central Asia,birth_rate1000,8.584
+Isle of Man,Europe & Central Asia,death_rate1000,10.461
+Isle of Man,Europe & Central Asia,net_immigration,199
+Isle of Man,Europe & Central Asia,life_exp,80.762
+Israel,Middle East & North Africa,birth_rate1000,19
+Israel,Middle East & North Africa,death_rate1000,5.4
+Israel,Middle East & North Africa,net_immigration,50004
+Israel,Middle East & North Africa,life_exp,82.7
+Italy,Europe & Central Asia,birth_rate1000,6.7
+Italy,Europe & Central Asia,death_rate1000,12.1
+Italy,Europe & Central Asia,net_immigration,231228
+Italy,Europe & Central Asia,life_exp,82.9
+Jamaica,Latin America & Caribbean,birth_rate1000,11.531
+Jamaica,Latin America & Caribbean,death_rate1000,8.787
+Jamaica,Latin America & Caribbean,net_immigration,-10003
+Jamaica,Latin America & Caribbean,life_exp,70.629
+Japan,East Asia & Pacific,birth_rate1000,6.3
+Japan,East Asia & Pacific,death_rate1000,12.9
+Japan,East Asia & Pacific,net_immigration,175003
+Japan,East Asia & Pacific,life_exp,83.99634146
+Jordan,Middle East & North Africa,birth_rate1000,21.616
+Jordan,Middle East & North Africa,death_rate1000,3.957
+Jordan,Middle East & North Africa,net_immigration,-17445
+Jordan,Middle East & North Africa,life_exp,74.215
+Kazakhstan,Europe & Central Asia,birth_rate1000,20.57
+Kazakhstan,Europe & Central Asia,death_rate1000,6.8
+Kazakhstan,Europe & Central Asia,net_immigration,45755
+Kazakhstan,Europe & Central Asia,life_exp,74.44
+Kenya,Sub-Saharan Africa,birth_rate1000,27.54
+Kenya,Sub-Saharan Africa,death_rate1000,7.83
+Kenya,Sub-Saharan Africa,net_immigration,-10003
+Kenya,Sub-Saharan Africa,life_exp,62.055
+Kiribati,East Asia & Pacific,birth_rate1000,26.723
+Kiribati,East Asia & Pacific,death_rate1000,6.182
+Kiribati,East Asia & Pacific,net_immigration,-395
+Kiribati,East Asia & Pacific,life_exp,67.661
+"Korea, Dem. People's Rep.",East Asia & Pacific,birth_rate1000,13.058
+"Korea, Dem. People's Rep.",East Asia & Pacific,death_rate1000,9.353
+"Korea, Dem. People's Rep.",East Asia & Pacific,net_immigration,-1997
+"Korea, Dem. People's Rep.",East Asia & Pacific,life_exp,73.578
+"Korea, Rep.",East Asia & Pacific,birth_rate1000,4.9
+"Korea, Rep.",East Asia & Pacific,death_rate1000,7.3
+"Korea, Rep.",East Asia & Pacific,net_immigration,87800
+"Korea, Rep.",East Asia & Pacific,life_exp,82.6804878
+Kosovo,Europe & Central Asia,birth_rate1000,11.068
+Kosovo,Europe & Central Asia,death_rate1000,5.709
+Kosovo,Europe & Central Asia,net_immigration,-28588
+Kosovo,Europe & Central Asia,life_exp,79.524
+Kuwait,Middle East & North Africa,birth_rate1000,9.727
+Kuwait,Middle East & North Africa,death_rate1000,2.606
+Kuwait,Middle East & North Africa,net_immigration,368560
+Kuwait,Middle East & North Africa,life_exp,80.264
+Kyrgyz Republic,Europe & Central Asia,birth_rate1000,21.5
+Kyrgyz Republic,Europe & Central Asia,death_rate1000,4.5
+Kyrgyz Republic,Europe & Central Asia,net_immigration,12596
+Kyrgyz Republic,Europe & Central Asia,life_exp,72.04878049
+Lao PDR,East Asia & Pacific,birth_rate1000,21.46
+Lao PDR,East Asia & Pacific,death_rate1000,6.195
+Lao PDR,East Asia & Pacific,net_immigration,-10003
+Lao PDR,East Asia & Pacific,life_exp,68.999
+Latvia,Europe & Central Asia,birth_rate1000,8.5
+Latvia,Europe & Central Asia,death_rate1000,16.4
+Latvia,Europe & Central Asia,net_immigration,22027
+Latvia,Europe & Central Asia,life_exp,74.5804878
+Lebanon,Middle East & North Africa,birth_rate1000,14.576
+Lebanon,Middle East & North Africa,death_rate1000,8.857
+Lebanon,Middle East & North Africa,net_immigration,-27507
+Lebanon,Middle East & North Africa,life_exp,74.416
+Lesotho,Sub-Saharan Africa,birth_rate1000,25.778
+Lesotho,Sub-Saharan Africa,death_rate1000,14.069
+Lesotho,Sub-Saharan Africa,net_immigration,-6023
+Lesotho,Sub-Saharan Africa,life_exp,53.036
+Liberia,Sub-Saharan Africa,birth_rate1000,30.996
+Liberia,Sub-Saharan Africa,death_rate1000,8.632
+Liberia,Sub-Saharan Africa,net_immigration,-5003
+Liberia,Sub-Saharan Africa,life_exp,61.1
+Libya,Middle East & North Africa,birth_rate1000,17.298
+Libya,Middle East & North Africa,death_rate1000,5.954
+Libya,Middle East & North Africa,net_immigration,-2001
+Libya,Middle East & North Africa,life_exp,72.151
+Liechtenstein,Europe & Central Asia,birth_rate1000,9.2
+Liechtenstein,Europe & Central Asia,death_rate1000,7.1
+Liechtenstein,Europe & Central Asia,net_immigration,212
+Liechtenstein,Europe & Central Asia,life_exp,84.3195122
+Lithuania,Europe & Central Asia,birth_rate1000,7.8
+Lithuania,Europe & Central Asia,death_rate1000,15.1
+Lithuania,Europe & Central Asia,net_immigration,72100
+Lithuania,Europe & Central Asia,life_exp,75.79268293
+Luxembourg,Europe & Central Asia,birth_rate1000,9.9
+Luxembourg,Europe & Central Asia,death_rate1000,6.8
+Luxembourg,Europe & Central Asia,net_immigration,13194
+Luxembourg,Europe & Central Asia,life_exp,83.04634146
+"Macao SAR, China",East Asia & Pacific,birth_rate1000,10.044
+"Macao SAR, China",East Asia & Pacific,death_rate1000,4.256
+"Macao SAR, China",East Asia & Pacific,net_immigration,8748
+"Macao SAR, China",East Asia & Pacific,life_exp,85.377
+Madagascar,Sub-Saharan Africa,birth_rate1000,30.595
+Madagascar,Sub-Saharan Africa,death_rate1000,6.799
+Madagascar,Sub-Saharan Africa,net_immigration,-1487
+Madagascar,Sub-Saharan Africa,life_exp,65.23
+Malawi,Sub-Saharan Africa,birth_rate1000,32.611
+Malawi,Sub-Saharan Africa,death_rate1000,6.934
+Malawi,Sub-Saharan Africa,net_immigration,-5231
+Malawi,Sub-Saharan Africa,life_exp,62.898
+Malaysia,East Asia & Pacific,birth_rate1000,15.016
+Malaysia,East Asia & Pacific,death_rate1000,5.443
+Malaysia,East Asia & Pacific,net_immigration,188154
+Malaysia,East Asia & Pacific,life_exp,76.26
+Maldives,South Asia,birth_rate1000,13.638
+Maldives,South Asia,death_rate1000,2.777
+Maldives,South Asia,net_immigration,-2674
+Maldives,South Asia,life_exp,80.839
+Mali,Sub-Saharan Africa,birth_rate1000,41.217
+Mali,Sub-Saharan Africa,death_rate1000,8.951
+Mali,Sub-Saharan Africa,net_immigration,-39951
+Mali,Sub-Saharan Africa,life_exp,59.417
+Malta,Middle East & North Africa,birth_rate1000,8.1
+Malta,Middle East & North Africa,death_rate1000,8
+Malta,Middle East & North Africa,net_immigration,2480
+Malta,Middle East & North Africa,life_exp,82.7
+Marshall Islands,East Asia & Pacific,birth_rate1000,18.524
+Marshall Islands,East Asia & Pacific,death_rate1000,7.919
+Marshall Islands,East Asia & Pacific,net_immigration,-1829
+Marshall Islands,East Asia & Pacific,life_exp,65.146
+Mauritania,Sub-Saharan Africa,birth_rate1000,32.953
+Mauritania,Sub-Saharan Africa,death_rate1000,7.203
+Mauritania,Sub-Saharan Africa,net_immigration,2999
+Mauritania,Sub-Saharan Africa,life_exp,64.691
+Mauritius,Sub-Saharan Africa,birth_rate1000,9.6
+Mauritius,Sub-Saharan Africa,death_rate1000,10.2
+Mauritius,Sub-Saharan Africa,net_immigration,-2824
+Mauritius,Sub-Saharan Africa,life_exp,73.51463415
+Mexico,Latin America & Caribbean,birth_rate1000,14.636
+Mexico,Latin America & Caribbean,death_rate1000,6.705
+Mexico,Latin America & Caribbean,net_immigration,-108438
+Mexico,Latin America & Caribbean,life_exp,74.832
+"Micronesia, Fed. Sts.",East Asia & Pacific,birth_rate1000,20.684
+"Micronesia, Fed. Sts.",East Asia & Pacific,death_rate1000,6.275
+"Micronesia, Fed. Sts.",East Asia & Pacific,net_immigration,-1159
+"Micronesia, Fed. Sts.",East Asia & Pacific,life_exp,70.925
+Moldova,Europe & Central Asia,birth_rate1000,12.148
+Moldova,Europe & Central Asia,death_rate1000,16.609
+Moldova,Europe & Central Asia,net_immigration,89154
+Moldova,Europe & Central Asia,life_exp,68.621
+Monaco,Europe & Central Asia,birth_rate1000,NA
+Monaco,Europe & Central Asia,death_rate1000,NA
+Monaco,Europe & Central Asia,net_immigration,995
+Monaco,Europe & Central Asia,life_exp,NA
+Mongolia,East Asia & Pacific,birth_rate1000,20.447
+Mongolia,East Asia & Pacific,death_rate1000,5.479
+Mongolia,East Asia & Pacific,net_immigration,0
+Mongolia,East Asia & Pacific,life_exp,72.667
+Montenegro,Europe & Central Asia,birth_rate1000,11.4
+Montenegro,Europe & Central Asia,death_rate1000,11.5
+Montenegro,Europe & Central Asia,net_immigration,26332
+Montenegro,Europe & Central Asia,life_exp,76.18780488
+Morocco,Middle East & North Africa,birth_rate1000,17.161
+Morocco,Middle East & North Africa,death_rate1000,5.766
+Morocco,Middle East & North Africa,net_immigration,-38594
+Morocco,Middle East & North Africa,life_exp,74.973
+Mozambique,Sub-Saharan Africa,birth_rate1000,36.121
+Mozambique,Sub-Saharan Africa,death_rate1000,8.611
+Mozambique,Sub-Saharan Africa,net_immigration,-34936
+Mozambique,Sub-Saharan Africa,life_exp,59.625
+Myanmar,East Asia & Pacific,birth_rate1000,16.833
+Myanmar,East Asia & Pacific,death_rate1000,8.749
+Myanmar,East Asia & Pacific,net_immigration,-34988
+Myanmar,East Asia & Pacific,life_exp,67.256
+Namibia,Sub-Saharan Africa,birth_rate1000,26.921
+Namibia,Sub-Saharan Africa,death_rate1000,11.457
+Namibia,Sub-Saharan Africa,net_immigration,22212
+Namibia,Sub-Saharan Africa,life_exp,58.059
+Nauru,East Asia & Pacific,birth_rate1000,26.785
+Nauru,East Asia & Pacific,death_rate1000,6.582
+Nauru,East Asia & Pacific,net_immigration,-144
+Nauru,East Asia & Pacific,life_exp,64.014
+Nepal,South Asia,birth_rate1000,20.165
+Nepal,South Asia,death_rate1000,6.651
+Nepal,South Asia,net_immigration,-379321
+Nepal,South Asia,life_exp,70.484
+Netherlands,Europe & Central Asia,birth_rate1000,9.5
+Netherlands,Europe & Central Asia,death_rate1000,9.6
+Netherlands,Europe & Central Asia,net_immigration,224472
+Netherlands,Europe & Central Asia,life_exp,81.71463415
+New Caledonia,East Asia & Pacific,birth_rate1000,14.1
+New Caledonia,East Asia & Pacific,death_rate1000,7.1
+New Caledonia,East Asia & Pacific,net_immigration,485
+New Caledonia,East Asia & Pacific,life_exp,80.98207317
+New Zealand,East Asia & Pacific,birth_rate1000,11.49
+New Zealand,East Asia & Pacific,death_rate1000,7.53
+New Zealand,East Asia & Pacific,net_immigration,21404
+New Zealand,East Asia & Pacific,life_exp,82.76097561
+Nicaragua,Latin America & Caribbean,birth_rate1000,20.018
+Nicaragua,Latin America & Caribbean,death_rate1000,4.655
+Nicaragua,Latin America & Caribbean,net_immigration,-7996
+Nicaragua,Latin America & Caribbean,life_exp,74.615
+Niger,Sub-Saharan Africa,birth_rate1000,45.029
+Niger,Sub-Saharan Africa,death_rate1000,7.834
+Niger,Sub-Saharan Africa,net_immigration,995
+Niger,Sub-Saharan Africa,life_exp,62.08
+Nigeria,Sub-Saharan Africa,birth_rate1000,36.611
+Nigeria,Sub-Saharan Africa,death_rate1000,12.431
+Nigeria,Sub-Saharan Africa,net_immigration,-51680
+Nigeria,Sub-Saharan Africa,life_exp,53.633
+North Macedonia,Europe & Central Asia,birth_rate1000,9.9
+North Macedonia,Europe & Central Asia,death_rate1000,12.3
+North Macedonia,Europe & Central Asia,net_immigration,-5296
+North Macedonia,Europe & Central Asia,life_exp,74.42487805
+Northern Mariana Islands,East Asia & Pacific,birth_rate1000,NA
+Northern Mariana Islands,East Asia & Pacific,death_rate1000,NA
+Northern Mariana Islands,East Asia & Pacific,net_immigration,-1348
+Northern Mariana Islands,East Asia & Pacific,life_exp,NA
+Norway,Europe & Central Asia,birth_rate1000,9.4
+Norway,Europe & Central Asia,death_rate1000,8.4
+Norway,Europe & Central Asia,net_immigration,58040
+Norway,Europe & Central Asia,life_exp,82.56097561
+Oman,Middle East & North Africa,birth_rate1000,17.706
+Oman,Middle East & North Africa,death_rate1000,3.279
+Oman,Middle East & North Africa,net_immigration,339063
+Oman,Middle East & North Africa,life_exp,73.935
+Pakistan,South Asia,birth_rate1000,27.233
+Pakistan,South Asia,death_rate1000,7.021
+Pakistan,South Asia,net_immigration,-1322625
+Pakistan,South Asia,life_exp,66.431
+Palau,East Asia & Pacific,birth_rate1000,8.8
+Palau,East Asia & Pacific,death_rate1000,11.4
+Palau,East Asia & Pacific,net_immigration,-20
+Palau,East Asia & Pacific,life_exp,NA
+Panama,Latin America & Caribbean,birth_rate1000,17.4
+Panama,Latin America & Caribbean,death_rate1000,5.904
+Panama,Latin America & Caribbean,net_immigration,7967
+Panama,Latin America & Caribbean,life_exp,76.826
+Papua New Guinea,East Asia & Pacific,birth_rate1000,25.112
+Papua New Guinea,East Asia & Pacific,death_rate1000,6.459
+Papua New Guinea,East Asia & Pacific,net_immigration,-787
+Papua New Guinea,East Asia & Pacific,life_exp,65.958
+Paraguay,Latin America & Caribbean,birth_rate1000,20.328
+Paraguay,Latin America & Caribbean,death_rate1000,7.437
+Paraguay,Latin America & Caribbean,net_immigration,-12500
+Paraguay,Latin America & Caribbean,life_exp,70.475
+Peru,Latin America & Caribbean,birth_rate1000,17.376
+Peru,Latin America & Caribbean,death_rate1000,7.505
+Peru,Latin America & Caribbean,net_immigration,33982
+Peru,Latin America & Caribbean,life_exp,73.385
+Philippines,East Asia & Pacific,birth_rate1000,21.618
+Philippines,East Asia & Pacific,death_rate1000,5.568
+Philippines,East Asia & Pacific,net_immigration,-221754
+Philippines,East Asia & Pacific,life_exp,72.187
+Poland,Europe & Central Asia,birth_rate1000,8.3
+Poland,Europe & Central Asia,death_rate1000,12.2
+Poland,Europe & Central Asia,net_immigration,967744
+Poland,Europe & Central Asia,life_exp,77.30487805
+Portugal,Europe & Central Asia,birth_rate1000,8
+Portugal,Europe & Central Asia,death_rate1000,11.9
+Portugal,Europe & Central Asia,net_immigration,68696
+Portugal,Europe & Central Asia,life_exp,81.5804878
+Puerto Rico,Latin America & Caribbean,birth_rate1000,5.9
+Puerto Rico,Latin America & Caribbean,death_rate1000,11
+Puerto Rico,Latin America & Caribbean,net_immigration,16704
+Puerto Rico,Latin America & Caribbean,life_exp,79.72
+Qatar,Middle East & North Africa,birth_rate1000,9.091
+Qatar,Middle East & North Africa,death_rate1000,1.08
+Qatar,Middle East & North Africa,net_immigration,80004
+Qatar,Middle East & North Africa,life_exp,81.559
+Romania,Europe & Central Asia,birth_rate1000,9.6
+Romania,Europe & Central Asia,death_rate1000,14.3
+Romania,Europe & Central Asia,net_immigration,89076
+Romania,Europe & Central Asia,life_exp,75.30487805
+Russian Federation,Europe & Central Asia,birth_rate1000,8.9
+Russian Federation,Europe & Central Asia,death_rate1000,12.9
+Russian Federation,Europe & Central Asia,net_immigration,765629
+Russian Federation,Europe & Central Asia,life_exp,72.54560976
+Rwanda,Sub-Saharan Africa,birth_rate1000,29.474
+Rwanda,Sub-Saharan Africa,death_rate1000,5.847
+Rwanda,Sub-Saharan Africa,net_immigration,-9001
+Rwanda,Sub-Saharan Africa,life_exp,67.129
+Samoa,East Asia & Pacific,birth_rate1000,26.997
+Samoa,East Asia & Pacific,death_rate1000,5.45
+Samoa,East Asia & Pacific,net_immigration,-2837
+Samoa,East Asia & Pacific,life_exp,72.598
+San Marino,Europe & Central Asia,birth_rate1000,6.1
+San Marino,Europe & Central Asia,death_rate1000,7.8
+San Marino,Europe & Central Asia,net_immigration,-403
+San Marino,Europe & Central Asia,life_exp,NA
+Sao Tome and Principe,Sub-Saharan Africa,birth_rate1000,27.974
+Sao Tome and Principe,Sub-Saharan Africa,death_rate1000,5.838
+Sao Tome and Principe,Sub-Saharan Africa,net_immigration,-592
+Sao Tome and Principe,Sub-Saharan Africa,life_exp,68.794
+Saudi Arabia,Middle East & North Africa,birth_rate1000,16.919
+Saudi Arabia,Middle East & North Africa,death_rate1000,2.752
+Saudi Arabia,Middle East & North Africa,net_immigration,977072
+Saudi Arabia,Middle East & North Africa,life_exp,77.905
+Senegal,Sub-Saharan Africa,birth_rate1000,32.067
+Senegal,Sub-Saharan Africa,death_rate1000,5.548
+Senegal,Sub-Saharan Africa,net_immigration,16425
+Senegal,Sub-Saharan Africa,life_exp,67.913
+Serbia,Europe & Central Asia,birth_rate1000,9.3
+Serbia,Europe & Central Asia,death_rate1000,16.2
+Serbia,Europe & Central Asia,net_immigration,40118
+Serbia,Europe & Central Asia,life_exp,75.48219512
+Seychelles,Sub-Saharan Africa,birth_rate1000,13.1
+Seychelles,Sub-Saharan Africa,death_rate1000,7.8
+Seychelles,Sub-Saharan Africa,net_immigration,1788
+Seychelles,Sub-Saharan Africa,life_exp,73.84878049
+Sierra Leone,Sub-Saharan Africa,birth_rate1000,30.788
+Sierra Leone,Sub-Saharan Africa,death_rate1000,8.909
+Sierra Leone,Sub-Saharan Africa,net_immigration,-4000
+Sierra Leone,Sub-Saharan Africa,life_exp,60.411
+Singapore,East Asia & Pacific,birth_rate1000,7.9
+Singapore,East Asia & Pacific,death_rate1000,6.3
+Singapore,East Asia & Pacific,net_immigration,214842
+Singapore,East Asia & Pacific,life_exp,82.89512195
+Sint Maarten (Dutch part),Latin America & Caribbean,birth_rate1000,8.1
+Sint Maarten (Dutch part),Latin America & Caribbean,death_rate1000,6
+Sint Maarten (Dutch part),Latin America & Caribbean,net_immigration,564
+Sint Maarten (Dutch part),Latin America & Caribbean,life_exp,74.409
+Slovak Republic,Europe & Central Asia,birth_rate1000,9.7
+Slovak Republic,Europe & Central Asia,death_rate1000,11
+Slovak Republic,Europe & Central Asia,net_immigration,92314
+Slovak Republic,Europe & Central Asia,life_exp,77.06585366
+Slovenia,Europe & Central Asia,birth_rate1000,8.3
+Slovenia,Europe & Central Asia,death_rate1000,10.6
+Slovenia,Europe & Central Asia,net_immigration,9014
+Slovenia,Europe & Central Asia,life_exp,81.28292683
+Solomon Islands,East Asia & Pacific,birth_rate1000,29.322
+Solomon Islands,East Asia & Pacific,death_rate1000,4.888
+Solomon Islands,East Asia & Pacific,net_immigration,1567
+Solomon Islands,East Asia & Pacific,life_exp,70.742
+Somalia,Sub-Saharan Africa,birth_rate1000,43.086
+Somalia,Sub-Saharan Africa,death_rate1000,11.012
+Somalia,Sub-Saharan Africa,net_immigration,-92434
+Somalia,Sub-Saharan Africa,life_exp,56.107
+South Africa,Sub-Saharan Africa,birth_rate1000,19.31
+South Africa,Sub-Saharan Africa,death_rate1000,12.032
+South Africa,Sub-Saharan Africa,net_immigration,233284
+South Africa,Sub-Saharan Africa,life_exp,61.48
+South Sudan,Sub-Saharan Africa,birth_rate1000,28.857
+South Sudan,Sub-Saharan Africa,death_rate1000,10.745
+South Sudan,Sub-Saharan Africa,net_immigration,40259
+South Sudan,Sub-Saharan Africa,life_exp,55.567
+Spain,Europe & Central Asia,birth_rate1000,6.9
+Spain,Europe & Central Asia,death_rate1000,9.7
+Spain,Europe & Central Asia,net_immigration,299779
+Spain,Europe & Central Asia,life_exp,83.08292683
+Sri Lanka,South Asia,birth_rate1000,13.781
+Sri Lanka,South Asia,death_rate1000,7.287
+Sri Lanka,South Asia,net_immigration,-27435
+Sri Lanka,South Asia,life_exp,76.61
+St. Kitts and Nevis,Latin America & Caribbean,birth_rate1000,11.823
+St. Kitts and Nevis,Latin America & Caribbean,death_rate1000,10.078
+St. Kitts and Nevis,Latin America & Caribbean,net_immigration,0
+St. Kitts and Nevis,Latin America & Caribbean,life_exp,72.027
+St. Lucia,Latin America & Caribbean,birth_rate1000,11.316
+St. Lucia,Latin America & Caribbean,death_rate1000,10.151
+St. Lucia,Latin America & Caribbean,net_immigration,0
+St. Lucia,Latin America & Caribbean,life_exp,71.294
+St. Martin (French part),Latin America & Caribbean,birth_rate1000,14.414
+St. Martin (French part),Latin America & Caribbean,death_rate1000,5.101
+St. Martin (French part),Latin America & Caribbean,net_immigration,-1475
+St. Martin (French part),Latin America & Caribbean,life_exp,80.55
+St. Vincent and the Grenadines,Latin America & Caribbean,birth_rate1000,12.726
+St. Vincent and the Grenadines,Latin America & Caribbean,death_rate1000,14.004
+St. Vincent and the Grenadines,Latin America & Caribbean,net_immigration,-826
+St. Vincent and the Grenadines,Latin America & Caribbean,life_exp,68.972
+Sudan,Sub-Saharan Africa,birth_rate1000,33.027
+Sudan,Sub-Saharan Africa,death_rate1000,6.677
+Sudan,Sub-Saharan Africa,net_immigration,-26668
+Sudan,Sub-Saharan Africa,life_exp,65.578
+Suriname,Latin America & Caribbean,birth_rate1000,17.983
+Suriname,Latin America & Caribbean,death_rate1000,8.637
+Suriname,Latin America & Caribbean,net_immigration,-988
+Suriname,Latin America & Caribbean,life_exp,70.289
+Sweden,Europe & Central Asia,birth_rate1000,10
+Sweden,Europe & Central Asia,death_rate1000,9
+Sweden,Europe & Central Asia,net_immigration,58955
+Sweden,Europe & Central Asia,life_exp,83.1097561
+Switzerland,Europe & Central Asia,birth_rate1000,9.4
+Switzerland,Europe & Central Asia,death_rate1000,8.5
+Switzerland,Europe & Central Asia,net_immigration,96424
+Switzerland,Europe & Central Asia,life_exp,83.45365854
+Syrian Arab Republic,Middle East & North Africa,birth_rate1000,20.531
+Syrian Arab Republic,Middle East & North Africa,death_rate1000,5.047
+Syrian Arab Republic,Middle East & North Africa,net_immigration,735142
+Syrian Arab Republic,Middle East & North Africa,life_exp,72.3
+Tajikistan,Europe & Central Asia,birth_rate1000,26.025
+Tajikistan,Europe & Central Asia,death_rate1000,4.695
+Tajikistan,Europe & Central Asia,net_immigration,-17001
+Tajikistan,Europe & Central Asia,life_exp,71.288
+Tanzania,Sub-Saharan Africa,birth_rate1000,35.811
+Tanzania,Sub-Saharan Africa,death_rate1000,5.959
+Tanzania,Sub-Saharan Africa,net_immigration,-37557
+Tanzania,Sub-Saharan Africa,life_exp,66.782
+Thailand,East Asia & Pacific,birth_rate1000,8.806
+Thailand,East Asia & Pacific,death_rate1000,7.487
+Thailand,East Asia & Pacific,net_immigration,21683
+Thailand,East Asia & Pacific,life_exp,79.68
+Timor-Leste,East Asia & Pacific,birth_rate1000,24.611
+Timor-Leste,East Asia & Pacific,death_rate1000,6.535
+Timor-Leste,East Asia & Pacific,net_immigration,-5519
+Timor-Leste,East Asia & Pacific,life_exp,69.056
+Togo,Sub-Saharan Africa,birth_rate1000,31.48
+Togo,Sub-Saharan Africa,death_rate1000,8.213
+Togo,Sub-Saharan Africa,net_immigration,-1997
+Togo,Sub-Saharan Africa,life_exp,61.588
+Tonga,East Asia & Pacific,birth_rate1000,22.894
+Tonga,East Asia & Pacific,death_rate1000,6.885
+Tonga,East Asia & Pacific,net_immigration,-2218
+Tonga,East Asia & Pacific,life_exp,71.27
+Trinidad and Tobago,Latin America & Caribbean,birth_rate1000,11.382
+Trinidad and Tobago,Latin America & Caribbean,death_rate1000,8.097
+Trinidad and Tobago,Latin America & Caribbean,net_immigration,4247
+Trinidad and Tobago,Latin America & Caribbean,life_exp,74.708
+Tunisia,Middle East & North Africa,birth_rate1000,15.6
+Tunisia,Middle East & North Africa,death_rate1000,7.601
+Tunisia,Middle East & North Africa,net_immigration,-14001
+Tunisia,Middle East & North Africa,life_exp,74.263
+Turkiye,Europe & Central Asia,birth_rate1000,14.468
+Turkiye,Europe & Central Asia,death_rate1000,5.101
+Turkiye,Europe & Central Asia,net_immigration,-301544
+Turkiye,Europe & Central Asia,life_exp,78.475
+Turkmenistan,Europe & Central Asia,birth_rate1000,20.755
+Turkmenistan,Europe & Central Asia,death_rate1000,6.585
+Turkmenistan,Europe & Central Asia,net_immigration,14141
+Turkmenistan,Europe & Central Asia,life_exp,69.41
+Turks and Caicos Islands,Latin America & Caribbean,birth_rate1000,12.27
+Turks and Caicos Islands,Latin America & Caribbean,death_rate1000,9.04
+Turks and Caicos Islands,Latin America & Caribbean,net_immigration,193
+Turks and Caicos Islands,Latin America & Caribbean,life_exp,74.925
+Tuvalu,East Asia & Pacific,birth_rate1000,23.318
+Tuvalu,East Asia & Pacific,death_rate1000,10.103
+Tuvalu,East Asia & Pacific,net_immigration,-320
+Tuvalu,East Asia & Pacific,life_exp,64.854
+Uganda,Sub-Saharan Africa,birth_rate1000,36.215
+Uganda,Sub-Saharan Africa,death_rate1000,5.579
+Uganda,Sub-Saharan Africa,net_immigration,-118843
+Uganda,Sub-Saharan Africa,life_exp,63.638
+Ukraine,Europe & Central Asia,birth_rate1000,7.659
+Ukraine,Europe & Central Asia,death_rate1000,21.4
+Ukraine,Europe & Central Asia,net_immigration,-5699445
+Ukraine,Europe & Central Asia,life_exp,68.58792683
+United Arab Emirates,Middle East & North Africa,birth_rate1000,9.888
+United Arab Emirates,Middle East & North Africa,death_rate1000,1.865
+United Arab Emirates,Middle East & North Africa,net_immigration,322773
+United Arab Emirates,Middle East & North Africa,life_exp,79.196
+United Kingdom,Europe & Central Asia,birth_rate1000,10
+United Kingdom,Europe & Central Asia,death_rate1000,9.1
+United Kingdom,Europe & Central Asia,net_immigration,487029
+United Kingdom,Europe & Central Asia,life_exp,82.05853659
+United States,North America,birth_rate1000,11
+United States,North America,death_rate1000,9.8
+United States,North America,net_immigration,1319009
+United States,North America,life_exp,77.43414634
+Uruguay,Latin America & Caribbean,birth_rate1000,10.419
+Uruguay,Latin America & Caribbean,death_rate1000,9.879
+Uruguay,Latin America & Caribbean,net_immigration,-1501
+Uruguay,Latin America & Caribbean,life_exp,78
+Uzbekistan,Europe & Central Asia,birth_rate1000,26.2
+Uzbekistan,Europe & Central Asia,death_rate1000,4.8
+Uzbekistan,Europe & Central Asia,net_immigration,-5007
+Uzbekistan,Europe & Central Asia,life_exp,71.674
+Vanuatu,East Asia & Pacific,birth_rate1000,28.968
+Vanuatu,East Asia & Pacific,death_rate1000,5.312
+Vanuatu,East Asia & Pacific,net_immigration,0
+Vanuatu,East Asia & Pacific,life_exp,70.492
+"Venezuela, RB",Latin America & Caribbean,birth_rate1000,15.573
+"Venezuela, RB",Latin America & Caribbean,death_rate1000,8.1
+"Venezuela, RB",Latin America & Caribbean,net_immigration,-141107
+"Venezuela, RB",Latin America & Caribbean,life_exp,71.105
+Virgin Islands (U.S.),Latin America & Caribbean,birth_rate1000,11.6
+Virgin Islands (U.S.),Latin America & Caribbean,death_rate1000,8.8
+Virgin Islands (U.S.),Latin America & Caribbean,net_immigration,-444
+Virgin Islands (U.S.),Latin America & Caribbean,life_exp,80.3195122
+West Bank and Gaza,Middle East & North Africa,birth_rate1000,27.69
+West Bank and Gaza,Middle East & North Africa,death_rate1000,3.854
+West Bank and Gaza,Middle East & North Africa,net_immigration,-5006
+West Bank and Gaza,Middle East & North Africa,life_exp,73.444
+"Yemen, Rep.",Middle East & North Africa,birth_rate1000,29.919
+"Yemen, Rep.",Middle East & North Africa,death_rate1000,6.824
+"Yemen, Rep.",Middle East & North Africa,net_immigration,-10448
+"Yemen, Rep.",Middle East & North Africa,life_exp,63.72
+Zambia,Sub-Saharan Africa,birth_rate1000,34.127
+Zambia,Sub-Saharan Africa,death_rate1000,6.716
+Zambia,Sub-Saharan Africa,net_immigration,-8566
+Zambia,Sub-Saharan Africa,life_exp,61.803
+Zimbabwe,Sub-Saharan Africa,birth_rate1000,30.086
+Zimbabwe,Sub-Saharan Africa,death_rate1000,8.943
+Zimbabwe,Sub-Saharan Africa,net_immigration,-102828
+Zimbabwe,Sub-Saharan Africa,life_exp,59.391
