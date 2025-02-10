@@ -1,4 +1,4 @@
-pclass,Recode(survived),name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,boat,body,home.dest
+pclass,survived,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,boat,body,home.dest
 First,yes,"Allen, Miss. Elisabeth Walton",female,29,0,0,24160,211.3375,B5,Southhampton,2,,"St Louis, MO"
 First,yes,"Allison, Master. Hudson Trevor",male,0.9167,1,2,113781,151.55,C22 C26,Southhampton,11,,"Montreal, PQ / Chesterville, ON"
 First,no,"Allison, Miss. Helen Loraine",female,2,1,2,113781,151.55,C22 C26,Southhampton,,,"Montreal, PQ / Chesterville, ON"
